@@ -1,0 +1,6 @@
+h1{color: black; font-family: Arial Black; font-size: 36px}
+body{background: #66237D;}
+p{font-family: Helvetica; font-size: 16px}
+a{color: white; text-decoration: none; font-family: Helvetica}
+a:hover{color: blue}
+a:visted{color: black}
